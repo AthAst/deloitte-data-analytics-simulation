@@ -14,3 +14,5 @@ Simulation completed on Forage (November 2026). The data and the client are fict
 
 ## Tools
 Tableau, Excel / Google Sheets
+
+![Dashboard](Down Time per Factory.png)
